@@ -23,7 +23,7 @@ Adapting this system to use aerial drone imagery will facilitate:
 * monitoring temporal and spatial changes in CRB damage on islands where CRB has established
 * measuring changes in CRB damage in response to biological control, sanitation, and other mitigation tactics
 
-The major technical challenge in converting the existing system to use drone images instead of ground-based roadside images as input is retraining the deep learning object detectors. This task will be contracted out to Onepanel Inc., the tech company which developed the original CRB damage detectors. Estimated contract cost is $70,000.
+The major technical challenge in converting the existing system to use drone images instead of ground-based roadside images as input is retraining the deep learning object detectors. This task will be contracted out to Onepanel Inc., the tech company which developed the original CRB damage detectors.
 
 The proposed aerial drone CRB damage survey method will be tested on Guam where a CRB biological control program is underway, and on the island of Rota, 35 miles north of Guam, where a CRB eradication project is underway.
 
