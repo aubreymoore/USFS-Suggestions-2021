@@ -6,7 +6,7 @@
 
 Coconut rhinoceros beetle damage, such as v-shaped cuts to fronds and bore holes in crowns, is distinctive and is easily detected by trained observers.
 
-Bimonthy CRB damage surveys on Guam use an innovative method. High definition digital images are recorded along roadsides of all major routes at a rate of one per second by a smart phone attached to a vehicle. Later, a computer program developed using an artificial intelligence technique called *deep learning* examines every image, finds all coconut palms, measures CRB damage to each palm, and generates an interactive map which is published on the internet ([Click here to see an example map]()).
+Bimonthy CRB damage surveys on Guam use an innovative method. High definition digital images are recorded along roadsides of all major routes at a rate of one per second by a smart phone attached to a vehicle. Later, a computer program developed using an artificial intelligence technique called *deep learning* examines every image, finds all coconut palms, measures CRB damage to each palm, and generates an interactive web map which is published on the internet ([Click here to see an example map]()).
 
 Roadside damage surveys are useful for rapid island-wide CRB damage monitoring on Guam. But use of aerial drone imagery would allow rapid automated surveys in off-road areas. Such a system my be key to success of eradication attempts, such as the one on Rota. In addition, this system could also be used for eraly detection monitoring.
 
