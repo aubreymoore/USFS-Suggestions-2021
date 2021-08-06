@@ -20,7 +20,7 @@ Funding is requested to support a consulting visit to Guam by Dr. Ron Cave, a re
 ## Deliverables
 
 * A consulting report detailing a plan for implementation of effective, self-sustaining biocontrol to prevent mortality of *C. micronesica* seedlings on Guam.
-* Information and biocontrol agents will be shared with colleages on other islands. Note that there is an urgent need to rescue the *C. micronesica* germ plasm plantations on Tinian which hav only recently been infested with CAS.
+* Information and biocontrol agents will be shared with colleagues on other islands. Note that there is an urgent need to rescue the *C. micronesica* germ plasm plantations on Tinian which hav only recently been infested with CAS.
 
 ## Budget
 
