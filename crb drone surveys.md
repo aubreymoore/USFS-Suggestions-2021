@@ -4,7 +4,11 @@
 
 ## Problem Definition
 
-Coconut rhinoceros beetle damage, such as v-shaped cuts to fronds and bore holes in crowns, is distinctive and is easily detected by a trained observer.
+Coconut rhinoceros beetle damage, such as v-shaped cuts to fronds and bore holes in crowns, is distinctive and is easily detected by trained observers.
+
+Bimonthy CRB damage surveys on Guam use an innovative method. High definition digital images are recorded along roadsides of all major routes at a rate of one per second by a smart phone attached to a vehicle. Later, a computer program developed using an artificial intelligence technique called *deep learning* examines every image, finds all coconut palms, measures CRB damage to each palm, and generates an interactive map which is published on the internet ([Click here to see an example map]()).
+
+Roadside damage surveys are useful for rapid island-wide CRB damage monitoring on Guam. But use of aerial drone imagery would allow rapid automated surveys in off-road areas. Such a system my be key to success of eradication attempts, such as the one on Rota. In addition, this system could also be used for eraly detection monitoring.
 
 ## Proposal
 
@@ -19,7 +23,7 @@ Adapting this system to use aerial drone imagery will facilitate:
 * monitoring temporal and spatial changes in CRB damage on islands where CRB has established
 * measuring changes in CRB damage in response to biological control, sanitation, and other mitigation tactics
 
-The proposed aerial drone CRB damage survey method will be tested on Guam where a CRB biological control program is underway, and on the island of Rota, 35 miles north of Guam, where a USDA-APHIS sponsored CRB eradication project is underway.
+The proposed aerial drone CRB damage survey method will be tested on Guam where a CRB biological control program is underway, and on the island of Rota, 35 miles north of Guam, where a CRB eradication project is underway.
 
 The proposed project should be considered as a proof of concept trial. Future development, not included in the scope of work for this proposal, could lead to precise aerial pesticide application by drone to individual trees whenever new CRB damage is detected. Pesticide choice could include conventional insecticides, biological control agents for CRB (OrNV, *Metarhizium majus*), or an attracticide (CRB pheromone plus toxicant).
 
@@ -32,8 +36,10 @@ The proposed project should be considered as a proof of concept trial. Future de
 * **Cooperator:** Rota
 * **Cooperator:** Michael Jordan, USFS, Guam
 
+**Note: Listed partners have not yet confirmed cooperation.**
+
 ## Deliverables
 
 ## Budget
 
-$118,327
+$120,000
