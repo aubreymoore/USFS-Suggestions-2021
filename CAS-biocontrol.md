@@ -17,6 +17,8 @@ Funding is requested to support a consulting visit to Guam by Dr. Ron Cave, a re
 * **Cooperator:** Toni Mizerek, USFWS, Guam
 * **Cooperator:** Michael Jordan, USFS, Guam
 
+**Note: Listed partners have not yet confirmed cooperation.**
+
 ## Deliverables
 
 * A consulting report detailing a plan for implementation of effective, self-sustaining biocontrol to prevent mortality of *C. micronesica* seedlings on Guam.
@@ -25,3 +27,4 @@ Funding is requested to support a consulting visit to Guam by Dr. Ron Cave, a re
 ## Budget
 
 $25,000
+
