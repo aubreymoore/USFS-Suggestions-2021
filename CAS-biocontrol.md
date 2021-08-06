@@ -12,7 +12,7 @@ Funding is requested to
 
 * **PI:** Aubrey Moore, University of Guam
 * **Cooperator:** Ron Cave, University of Florida
-* **Cooperator:** Toni Ma, USFWS, Guam
+* **Cooperator:** Toni Mizerek, USFWS, Guam
 * **Cooperator:** Michael Jordan, USFS, Guam
 
 ## Deliverables
